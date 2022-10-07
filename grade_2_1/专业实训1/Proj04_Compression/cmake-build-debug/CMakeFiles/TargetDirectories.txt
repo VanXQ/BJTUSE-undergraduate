@@ -1,0 +1,4 @@
+D:/CodeWorkplace/C++_By_Clion/Proj04_Compression/cmake-build-debug/CMakeFiles/Proj04_Compression.dir
+D:/CodeWorkplace/C++_By_Clion/Proj04_Compression/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CodeWorkplace/C++_By_Clion/Proj04_Compression/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/CodeWorkplace/C++_By_Clion/Proj04_Compression/cmake-build-debug/CMakeFiles/Proj04_Compression_autogen.dir

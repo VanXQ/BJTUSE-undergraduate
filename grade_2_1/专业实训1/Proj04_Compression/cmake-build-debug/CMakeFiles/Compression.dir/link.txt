@@ -1,0 +1,3 @@
+"D:\CODE\JetBrains\Clion\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Compression.dir/objects.a
+D:\CODE\Qt\Tools\mingw810_64\bin\ar.exe cr CMakeFiles\Compression.dir/objects.a @CMakeFiles\Compression.dir\objects1.rsp
+D:\CODE\Qt\Tools\mingw810_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Compression.dir/objects.a -Wl,--no-whole-archive -o Compression.exe -Wl,--out-implib,libCompression.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Compression.dir\linklibs.rsp

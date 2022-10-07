@@ -1,0 +1,3 @@
+"D:\CODE\JetBrains\Clion\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Proj02Caculator.dir/objects.a
+D:\CODE\Qt\Tools\mingw810_64\bin\ar.exe cr CMakeFiles\Proj02Caculator.dir/objects.a @CMakeFiles\Proj02Caculator.dir\objects1.rsp
+D:\CODE\Qt\Tools\mingw810_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Proj02Caculator.dir/objects.a -Wl,--no-whole-archive -o Proj02Caculator.exe -Wl,--out-implib,libProj02Caculator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Proj02Caculator.dir\linklibs.rsp

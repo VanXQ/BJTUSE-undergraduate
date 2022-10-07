@@ -1,0 +1,4 @@
+D:/CodeWorkplace/C++_By_Clion/huffmanCompression/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CodeWorkplace/C++_By_Clion/huffmanCompression/cmake-build-debug/CMakeFiles/huffmanCompression.dir
+D:/CodeWorkplace/C++_By_Clion/huffmanCompression/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/CodeWorkplace/C++_By_Clion/huffmanCompression/cmake-build-debug/CMakeFiles/huffmanCompression_autogen.dir

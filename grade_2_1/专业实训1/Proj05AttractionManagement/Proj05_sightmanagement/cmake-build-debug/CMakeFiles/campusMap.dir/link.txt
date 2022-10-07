@@ -1,0 +1,3 @@
+"D:\CODE\JetBrains\Clion\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\campusMap.dir/objects.a
+D:\CODE\Qt\Tools\mingw810_64\bin\ar.exe cr CMakeFiles\campusMap.dir/objects.a @CMakeFiles\campusMap.dir\objects1.rsp
+D:\CODE\Qt\Tools\mingw810_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\campusMap.dir/objects.a -Wl,--no-whole-archive -o campusMap.exe -Wl,--out-implib,libcampusMap.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\campusMap.dir\linklibs.rsp

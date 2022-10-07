@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+9cb14da39f26254d1ca75d4430437e3c CMakeFiles/Proj05_sightmanagement_autogen

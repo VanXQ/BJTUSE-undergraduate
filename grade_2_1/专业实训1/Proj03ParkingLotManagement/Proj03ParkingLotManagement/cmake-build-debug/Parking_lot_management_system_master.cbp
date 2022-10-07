@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Parking_lot_management_system_master"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Parking_lot_management_system_master">
+				<Option output="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Parking_lot_management_system_master.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/[NON-UTF-8-BYTE-0xB4][NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xC2][NON-UTF-8-BYTE-0xEB]"/>
+					<Add directory="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/[NON-UTF-8-BYTE-0xB4][NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xC2][NON-UTF-8-BYTE-0xEB]/Debug"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 Parking_lot_management_system_master"/>
+					<CompileFile command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Parking_lot_management_system_master/fast">
+				<Option output="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Parking_lot_management_system_master.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/[NON-UTF-8-BYTE-0xB4][NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xC2][NON-UTF-8-BYTE-0xEB]"/>
+					<Add directory="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/[NON-UTF-8-BYTE-0xB4][NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xC2][NON-UTF-8-BYTE-0xEB]/Debug"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 Parking_lot_management_system_master/fast"/>
+					<CompileFile command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/[NON-UTF-8-BYTE-0xB4][NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xC2][NON-UTF-8-BYTE-0xEB]"/>
+					<Add directory="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/[NON-UTF-8-BYTE-0xB4][NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xC2][NON-UTF-8-BYTE-0xEB]/Debug"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/[NON-UTF-8-BYTE-0xB4][NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xC2][NON-UTF-8-BYTE-0xEB]"/>
+					<Add directory="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/[NON-UTF-8-BYTE-0xB4][NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xC2][NON-UTF-8-BYTE-0xEB]/Debug"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="node">
+				<Option output="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/node.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/[NON-UTF-8-BYTE-0xB4][NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xC2][NON-UTF-8-BYTE-0xEB]"/>
+					<Add directory="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/[NON-UTF-8-BYTE-0xB4][NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xC2][NON-UTF-8-BYTE-0xEB]/Debug"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 node"/>
+					<CompileFile command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="node/fast">
+				<Option output="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/node.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/[NON-UTF-8-BYTE-0xB4][NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xC2][NON-UTF-8-BYTE-0xEB]"/>
+					<Add directory="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/[NON-UTF-8-BYTE-0xB4][NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xC2][NON-UTF-8-BYTE-0xEB]/Debug"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 node/fast"/>
+					<CompileFile command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DOC">
+				<Option output="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/DOC.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/[NON-UTF-8-BYTE-0xB4][NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xC2][NON-UTF-8-BYTE-0xEB]"/>
+					<Add directory="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/[NON-UTF-8-BYTE-0xB4][NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xC2][NON-UTF-8-BYTE-0xEB]/Debug"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 DOC"/>
+					<CompileFile command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DOC/fast">
+				<Option output="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/DOC.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/[NON-UTF-8-BYTE-0xB4][NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xC2][NON-UTF-8-BYTE-0xEB]"/>
+					<Add directory="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/[NON-UTF-8-BYTE-0xB4][NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xC2][NON-UTF-8-BYTE-0xEB]/Debug"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 DOC/fast"/>
+					<CompileFile command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Node">
+				<Option output="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Node.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/[NON-UTF-8-BYTE-0xB4][NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xC2][NON-UTF-8-BYTE-0xEB]"/>
+					<Add directory="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/[NON-UTF-8-BYTE-0xB4][NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xC2][NON-UTF-8-BYTE-0xEB]/Debug"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 Node"/>
+					<CompileFile command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Node/fast">
+				<Option output="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Node.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/[NON-UTF-8-BYTE-0xB4][NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xC2][NON-UTF-8-BYTE-0xEB]"/>
+					<Add directory="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/[NON-UTF-8-BYTE-0xB4][NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xC2][NON-UTF-8-BYTE-0xEB]/Debug"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 Node/fast"/>
+					<CompileFile command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="func">
+				<Option output="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/func.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/[NON-UTF-8-BYTE-0xB4][NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xC2][NON-UTF-8-BYTE-0xEB]"/>
+					<Add directory="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/[NON-UTF-8-BYTE-0xB4][NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xC2][NON-UTF-8-BYTE-0xEB]/Debug"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 func"/>
+					<CompileFile command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="func/fast">
+				<Option output="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/func.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/[NON-UTF-8-BYTE-0xB4][NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xC2][NON-UTF-8-BYTE-0xEB]"/>
+					<Add directory="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/[NON-UTF-8-BYTE-0xB4][NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xC2][NON-UTF-8-BYTE-0xEB]/Debug"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/CODE/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 func/fast"/>
+					<CompileFile command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CODE/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/DOC.md">
+			<Option target="DOC"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/main.cpp">
+			<Option target="Parking_lot_management_system_master"/>
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/node.h">
+			<Option target="Parking_lot_management_system_master"/>
+			<Option target="node"/>
+			<Option target="Node"/>
+			<Option target="func"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

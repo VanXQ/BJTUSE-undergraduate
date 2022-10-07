@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+f9909f29ca9ff4ac53c64fbb4d1b2be3 CMakeFiles/Bejeweled_autogen

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/Node.h
+iostream
+-
+cstring
+-
+string
+-
+map
+-
+stack
+-
+queue
+-
+vector
+-
+iomanip
+-
+Node.h
+D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/Node.h
+
+D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/main.cpp
+Node.h
+D:/CodeWorkplace/C++_By_Clion/Proj03ParkingLotManagement/Proj03ParkingLotManagement/Node.h
+

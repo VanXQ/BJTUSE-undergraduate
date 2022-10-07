@@ -1,0 +1,3 @@
+"D:\CODE\JetBrains\Clion\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Parking_lot_management_system_master.dir/objects.a
+D:\CODE\Qt\Tools\mingw810_64\bin\ar.exe cr CMakeFiles\Parking_lot_management_system_master.dir/objects.a @CMakeFiles\Parking_lot_management_system_master.dir\objects1.rsp
+D:\CODE\Qt\Tools\mingw810_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Parking_lot_management_system_master.dir/objects.a -Wl,--no-whole-archive -o Parking_lot_management_system_master.exe -Wl,--out-implib,libParking_lot_management_system_master.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Parking_lot_management_system_master.dir\linklibs.rsp

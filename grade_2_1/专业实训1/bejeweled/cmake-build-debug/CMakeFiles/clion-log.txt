@@ -1,0 +1,4 @@
+Cannot generate into C:\Users\Van_XQ\OneDrive - bjtu.edu.cn\CodeWorkplace\C++_By_Clion\bejeweled\cmake-build-debug
+It is already used for project D:\CodeWorkplace\C++_By_Clion\bejeweled
+
+Please either delete it manually or select another generation directory

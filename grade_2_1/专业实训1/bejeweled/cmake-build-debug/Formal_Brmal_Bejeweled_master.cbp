@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Formal_Brmal_Bejeweled_master"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CODE/Environment/MinGw/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/CODE/Environment/MinGw/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CODE/Environment/MinGw/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CODE/Environment/MinGw/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Formal_Brmal_Bejeweled_master">
+				<Option output="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug/Formal_Brmal_Bejeweled_master.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/."/>
+					<Add directory="D:/CODE/Environment/MinGw/include"/>
+					<Add directory="d:\code\environment\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="d:\code\environment\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="d:\code\environment\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="d:\code\environment\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="d:\code\environment\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="d:\code\environment\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CODE/Environment/MinGw/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 Formal_Brmal_Bejeweled_master"/>
+					<CompileFile command="D:/CODE/Environment/MinGw/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CODE/Environment/MinGw/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CODE/Environment/MinGw/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Formal_Brmal_Bejeweled_master/fast">
+				<Option output="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug/Formal_Brmal_Bejeweled_master.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/."/>
+					<Add directory="D:/CODE/Environment/MinGw/include"/>
+					<Add directory="d:\code\environment\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="d:\code\environment\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="d:\code\environment\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="d:\code\environment\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="d:\code\environment\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="d:\code\environment\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CODE/Environment/MinGw/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 Formal_Brmal_Bejeweled_master/fast"/>
+					<CompileFile command="D:/CODE/Environment/MinGw/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CODE/Environment/MinGw/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CODE/Environment/MinGw/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CODE/Environment/MinGw/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/CODE/Environment/MinGw/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CODE/Environment/MinGw/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CODE/Environment/MinGw/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CODE/Environment/MinGw/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/CODE/Environment/MinGw/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CODE/Environment/MinGw/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CODE/Environment/MinGw/bin/mingw32-make.exe -f &quot;D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/Global.cpp">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/Global.h">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/caboutdlg.cpp">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/caboutdlg.h">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/capptool.cpp">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/capptool.h">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cbejeweleddlg.cpp">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cbejeweleddlg.h">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cconfig.cpp">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cconfig.h">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cconfigdao.cpp">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cconfigdao.h">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cconfiglogic.cpp">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cconfiglogic.h">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cgamedlg.cpp">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cgamedlg.h">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cgamelogic.cpp">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cgamelogic.h">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/chelpdlg.cpp">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/chelpdlg.h">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmenudlg.cpp">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmenudlg.h">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmusicdlg.cpp">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmusicdlg.h">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmusicplayer.cpp">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cmusicplayer.h">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cnamedlg.cpp">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cnamedlg.h">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/crankdao.cpp">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/crankdao.h">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/crankdlg.cpp">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/crankdlg.h">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cranklogic.cpp">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cranklogic.h">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/csetdlg.cpp">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/csetdlg.h">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cthemedlg.cpp">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/cthemedlg.h">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/main.cpp">
+			<Option target="Formal_Brmal_Bejeweled_master"/>
+		</Unit>
+		<Unit filename="D:/CodeWorkplace/Formal_Brmal_Bejeweled-master/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

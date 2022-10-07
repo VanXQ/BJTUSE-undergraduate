@@ -1,0 +1,4 @@
+D:/CodeWorkplace/C++_By_Clion/Proj02Calculator/Calc_algorithm/cmake-build-debug/CMakeFiles/Calc_algorithm.dir
+D:/CodeWorkplace/C++_By_Clion/Proj02Calculator/Calc_algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CodeWorkplace/C++_By_Clion/Proj02Calculator/Calc_algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/CodeWorkplace/C++_By_Clion/Proj02Calculator/Calc_algorithm/cmake-build-debug/CMakeFiles/Calc_algorithm_autogen.dir

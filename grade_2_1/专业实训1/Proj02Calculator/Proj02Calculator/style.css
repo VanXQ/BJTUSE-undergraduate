@@ -1,0 +1,31 @@
+.QPushButton {
+    background-color: rgba(255, 255, 0, 100);
+    border-style: outset;
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: rgba(255, 255, 255, 30);
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 100);
+    padding: 3px;
+}
+.QPushButton:pressed {
+    background-color: rgba(100, 255, 100, 200);
+    border-color: rgba(255, 255, 255, 30);
+    border-style: inset;
+    color: rgba(0, 0, 0, 200);
+}
+.QPushButton:hover {
+    background-color: rgba(99, 99, 99, 99);
+    border-color: rgba(255, 255, 255, 255);
+    color: rgba(0, 0, 0, 255);
+}
+
+.QLineEdit {
+    border: 3px black;
+    padding: 0 8px;
+    background: white;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 255);
+}

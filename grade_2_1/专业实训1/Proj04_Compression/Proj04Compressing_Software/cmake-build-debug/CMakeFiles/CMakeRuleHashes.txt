@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+540a7ed2c092dd7f989fc3318287fd5e CMakeFiles/Proj04_Compress_autogen

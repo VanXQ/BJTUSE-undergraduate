@@ -1,0 +1,4 @@
+D:/CodeWorkplace/C++_By_Clion/bejeweled/cmake-build-debug/CMakeFiles/Bejeweled.dir
+D:/CodeWorkplace/C++_By_Clion/bejeweled/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CodeWorkplace/C++_By_Clion/bejeweled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/CodeWorkplace/C++_By_Clion/bejeweled/cmake-build-debug/CMakeFiles/Bejeweled_autogen.dir

@@ -1,0 +1,4 @@
+D:/CodeWorkplace/C++_By_Clion/Proj05_sightmanagement/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CodeWorkplace/C++_By_Clion/Proj05_sightmanagement/cmake-build-debug/CMakeFiles/Proj05_sightmanagement.dir
+D:/CodeWorkplace/C++_By_Clion/Proj05_sightmanagement/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/CodeWorkplace/C++_By_Clion/Proj05_sightmanagement/cmake-build-debug/CMakeFiles/Proj05_sightmanagement_autogen.dir

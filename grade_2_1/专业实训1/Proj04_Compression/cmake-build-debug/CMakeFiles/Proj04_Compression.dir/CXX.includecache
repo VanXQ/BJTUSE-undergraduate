@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CodeWorkplace/C++_By_Clion/Proj04_Compression/function.cpp
+cstring
+-
+cstdio
+D:/CodeWorkplace/C++_By_Clion/Proj04_Compression/cstdio
+include/function.h
+D:/CodeWorkplace/C++_By_Clion/Proj04_Compression/include/function.h
+
+D:/CodeWorkplace/C++_By_Clion/Proj04_Compression/include/function.h
+huffman_Tree.h
+D:/CodeWorkplace/C++_By_Clion/Proj04_Compression/include/huffman_Tree.h
+
+D:/CodeWorkplace/C++_By_Clion/Proj04_Compression/include/huffman_Tree.h
+fstream
+-
+iostream
+-
+string
+D:/CodeWorkplace/C++_By_Clion/Proj04_Compression/include/string
+
