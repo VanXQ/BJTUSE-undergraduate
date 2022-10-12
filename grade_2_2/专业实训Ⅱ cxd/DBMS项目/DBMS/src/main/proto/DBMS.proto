@@ -1,0 +1,24 @@
+syntax="proto3";
+option java_package="proto.DBMS.proto";
+option java_outer_classname ="DBMS";
+option java_multiple_files=false;
+
+//表的结构形式
+message Database{
+  message DB{
+    string name=1;
+    string type=2;
+    string file_path=3;
+    string date_created=4;
+  }
+  repeated DB db =1;
+}
+
+
+message TB_message{
+  message TB{
+    string TB_name=1;
+    string create_date=2;
+  }
+  repeated TB tb=1;
+}
