@@ -1,3 +1,0 @@
-D:/CodeWorkplace/CLionProject/OSHW1/cmake-build-debug/CMakeFiles/OSHW1.dir
-D:/CodeWorkplace/CLionProject/OSHW1/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/CodeWorkplace/CLionProject/OSHW1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
